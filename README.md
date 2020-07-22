@@ -1,5 +1,6 @@
 ### Heya!
 I'm a student/hobbyist interested in computers!
+I'm most experienced with Java and Python.
 
 Feel free to add suggestions/criticism/whatever in the issues tab on the stuff here (except for things I haven't touched in years just don't bother I'm too lazy to change that stuff anyway lol)
 
