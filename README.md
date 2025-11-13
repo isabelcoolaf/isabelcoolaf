@@ -1,5 +1,5 @@
-Hello! I'm a computer science student!
+Hello! I'm a CS student as per usual.
 
-My public repositories here are mostly completely outdated projects when I made Minecraft plugins to learn more about programming\
+Most of the repositories on this account are old & outdated & terrible Minecraft plugins
 
-Otherwise, I'm currently doing live stream moderation for ESL FACEIT Group, PGL Esports, and BLAST :)
+I need LinkedIn clout please connect with me -> [https://www.linkedin.com/in/isabel-lomas/]("https://www.linkedin.com/in/isabel-lomas/")
